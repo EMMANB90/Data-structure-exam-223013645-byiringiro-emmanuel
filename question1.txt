@@ -1,0 +1,9 @@
+Data structure and it’s importances in plumbing booking platform
+Data structure refers to the way of arranging data  in a computer and it’s not only deal with organizing data but also easy accessing data within the computer. there are different importances of data structure in plumbing service booking platform like: optimized data access and manipulation, organizing complex data sets, efficient problem solving. Let us talk more about those importances.
+
+Optimized Data Access and Manipulation: By choosing the right data structure, you can dramatically speed up tasks like searching, inserting, or deleting data. This translates to faster applications and improved user experiences. For example in booking system when we choose a good data structure we are able to know easily who have booked, when their bookings ends etc.
+Organizing Complex Datasets: Data structures provide a framework for logically arranging and grouping data elements. This is essential when dealing with large and complex datasets, as it helps you find the information you need quickly and accurately.
+Efficient Problem Solving: Data structures are the building blocks for  algorithm, the step-by-step procedures that solve problems. The right data structure can make an algorithm significantly more efficient.
+
+In summary we can say that as developers we must first think of how our data will be organized so that we can be able to access them in an efficient way actually data structure is a cornerstone for a good platform.
+
